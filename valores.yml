@@ -1,0 +1,2 @@
+str_con_sybase: Data Source=trbsybdsv01;Port=4102;Database=db_documento;UID=ferreira;PWD=a1b2c3d4
+parametro_teste: 1000
